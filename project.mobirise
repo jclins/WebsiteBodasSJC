@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "90 anos e Bodas de Platina",
+    "name": "Bodas Shirley e JChristino",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -56,8 +56,8 @@
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "witsec-language": "pt",
-    "favicon": false,
-    "mbrsiteDomain": "vhremm6tnd",
+    "favicon": "@PROJECT_PATH@/assets/images/whatsapp-image-2022-05-13-at-13.08.36-128x90.png",
+    "mbrsiteDomain": "ip5rumb7bl",
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
@@ -71,8 +71,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Bodas Shirley e J.Christiano",
+        "meta_descr": "90 anos de vida de J.Christiano e Bodas de Platina, 65 anos de casados - Shirley Lins e J.Christiano Lins",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
