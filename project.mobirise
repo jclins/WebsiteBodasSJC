@@ -49,7 +49,7 @@
     ],
     "dppsSwitcher": true,
     "spellingSwitch": true,
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "versionPublish": "5.6.5",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -75,7 +75,8 @@
         "meta_descr": "90 anos de vida de J.Christiano e Bodas de Platina, 65 anos de casados - Shirley Lins e J.Christiano Lins",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "socialSharingUrl": "https://bodassjc.vercel.app/assets/images/90-bodas-457x624.jpg"
       },
       "components": [
         {
