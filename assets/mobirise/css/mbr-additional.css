@@ -1213,3 +1213,33 @@ a {
 .cid-t5Qu03O9CO #bodas iframe {
   height: 980px;
 }
+.cid-t6iwkO1Kg0 {
+  padding-top: 6rem;
+  padding-bottom: 10rem;
+  background-color: #ffffff;
+}
+.cid-t6iwkO1Kg0 .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-t6iwkO1Kg0 form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-t6iwkO1Kg0 form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-t6iwkO1Kg0 form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
+.cid-t6iwkO1Kg0 #textarea-mensagem {
+  min-height: 150px;
+}
+.cid-t6iwkO1Kg0 #name-mensagem,
+.cid-t6iwkO1Kg0 #email-mensagem,
+.cid-t6iwkO1Kg0 #url-mensagem,
+.cid-t6iwkO1Kg0 #textarea-mensagem {
+  background-color: #f0f0f0;
+}
